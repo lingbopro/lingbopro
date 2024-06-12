@@ -1,33 +1,36 @@
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com/">
+  <a href="https://readme-typing-svg.demolab.com/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+JavaScript!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;Front-end+developer!" alt="Typing SVG" />
   </a>
 </div>
 
 # 欢迎 / Welcome  
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="right">
   <img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=one_dark_pro" align="right" />
 </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&style=flat-square)](//github.com/lingbopro "GitHub")
-[![Bilibili](https://img.shields.io/badge/Bilibili-gray?logo=bilibili&style=flat-square)](//space.bilibili.com/1886311488 "Bilibili")
+[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&style=flat-square)](https://github.com/lingbopro "GitHub")
+[![Bilibili](https://img.shields.io/badge/Bilibili-gray?logo=bilibili&style=flat-square)](https://space.bilibili.com/1886311488 "Bilibili")
 
 一个爱写 `JavaScript` 的 Minecraft 玩家，兼B站UP主  
 
 ## Skills / 技能
-[![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat-square)](//github.com/lingbopro?tab=repositories&q=&language=html)
-[![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=flat-square)](//github.com/lingbopro?tab=repositories&q=&language=css)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)](//github.com/lingbopro?tab=repositories&q=&language=javascript)
+[![HTML](https://img.shields.io/badge/HTML-nice-grey?logo=html5&logoColor=white&style=flat-square&color=orange)](https://github.com/lingbopro?tab=repositories&q=&language=html)
+[![CSS](https://img.shields.io/badge/CSS-good-grey?logo=css3&logoColor=white&style=flat-square&color=blue)](https://github.com/lingbopro?tab=repositories&q=&language=css)
+[![JavaScript](https://img.shields.io/badge/JavaScript-good-grey?logo=javascript&logoColor=white&style=flat-square&color=yellow)](https://github.com/lingbopro?tab=repositories&q=&language=javascript)
+
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-some-grey?style=flat-square&logo=c%2B%2B&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=javascript)
+[![易语言](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-good-grey?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURQAAAP8AAP%2F%2F%2F2cZZB4AAAABdFJOUwBA5thmAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB%2BgGDAUGEL5zDF4AAABISURBVAjXJYxBCsAgEAPzif6sEczdwvofBXvfg%2FvKrjSnyRCCi7yhCEcjK56I9VM%2FjmoEd1KZr0GSwTKge9Y5NrpK7kwD5%2BoDefAcYpQtlXYAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDYtMTJUMDU6MDY6MTYrMDA6MDByrOYxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA2LTEyVDA1OjA2OjE2KzAwOjAwA%2FFejQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wNi0xMlQwNTowNjoxNiswMDowMFTkf1IAAAAASUVORK5CYII%3D&style=flat-square&color=red)]()
 
 ## About Me / 关于我
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=lingbopro&theme=one_dark_pro&layout=compact" align="right" />
 </a>
 
 只是一个学生  
-跟 [@H3gg387](//github.com/H3gg387) 事同学，也事 good friend  
+跟 [@H3gg387](https://github.com/H3gg387) 事同学，也事 good friend  
 主攻前端，喜欢玩 Minecraft  
 
 ## My Projects / 我的项目
@@ -64,15 +67,15 @@
 ## 奇怪的东西
 <details>
   <summary>每日Bing图</summary>
-  <a href="https://7ed.net/bing/api">
+  <a href="https://7ed.net/bing/api" target="_blank">
     <img src="https://7ed.net/bing/api?size=320x240" />
   </a>
-  <a href="https://7ed.net/bing/api?cn=true">
+  <a href="https://7ed.net/bing/api?cn=true" target="_blank">
     <img src="https://7ed.net/bing/api?size=320x240&cn=true" />
   </a>
 </details>
 <details>
-  <summary>一个奇怪的文章 (<a href="https://www.luogu.com.cn/user/1183057#main">出处</a>)</summary>
+  <summary>一个奇怪的文章 (<a href="https://www.luogu.com.cn/user/1183057#main" target="_blank">出处</a>)</summary>
 
 ```
 如果26个英文字母：

@@ -15,23 +15,46 @@
 
 一个爱写 `JavaScript` 的 Minecraft 玩家，兼B站UP主  
 
-## Skills / 技能
-[![HTML](https://img.shields.io/badge/HTML-nice-grey?logo=html5&logoColor=white&style=flat-square&color=orange)](https://github.com/lingbopro?tab=repositories&q=&language=html)
-[![CSS](https://img.shields.io/badge/CSS-good-grey?logo=css3&logoColor=white&style=flat-square&color=blue)](https://github.com/lingbopro?tab=repositories&q=&language=css)
-[![JavaScript](https://img.shields.io/badge/JavaScript-good-grey?logo=javascript&logoColor=white&style=flat-square&color=yellow)](https://github.com/lingbopro?tab=repositories&q=&language=javascript)
+**Skills / 技能**
 
-[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-some-grey?style=flat-square&logo=c%2B%2B&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=javascript)
-[![易语言](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-good-grey?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURQAAAP8AAP%2F%2F%2F2cZZB4AAAABdFJOUwBA5thmAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB%2BgGDAUGEL5zDF4AAABISURBVAjXJYxBCsAgEAPzif6sEczdwvofBXvfg%2FvKrjSnyRCCi7yhCEcjK56I9VM%2FjmoEd1KZr0GSwTKge9Y5NrpK7kwD5%2BoDefAcYpQtlXYAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDYtMTJUMDU6MDY6MTYrMDA6MDByrOYxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA2LTEyVDA1OjA2OjE2KzAwOjAwA%2FFejQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wNi0xMlQwNTowNjoxNiswMDowMFTkf1IAAAAASUVORK5CYII%3D&style=flat-square&color=red)]()
+[![HTML](https://img.shields.io/badge/HTML-nice-grey?logo=html5&logoColor=white&style=flat-square&labelColor=orange)](https://github.com/lingbopro?tab=repositories&q=&language=html)
+[![CSS](https://img.shields.io/badge/CSS-good-grey?logo=css3&logoColor=white&style=flat-square&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=css)
+[![JavaScript](https://img.shields.io/badge/JavaScript-good-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/lingbopro?tab=repositories&q=&language=javascript)
+[![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logo=windows10&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=batchfile)
+[![ShellScript](https://img.shields.io/badge/ShellScript-good-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=black)](https://github.com/lingbopro?tab=repositories&q=&language=shell)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-some-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-little-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=python)
+[![C#](https://img.shields.io/badge/C%23-few-grey?style=flat-square&logo=csharp&logoColor=white&labelColor=purple)](https://github.com/lingbopro?tab=repositories&q=&language=C%23)
+[![Scratch](https://img.shields.io/badge/Scratch-nice-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)]()
+[![易语言](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-good-grey?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURQAAAP8AAP%2F%2F%2F2cZZB4AAAABdFJOUwBA5thmAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB%2BgGDAUGEL5zDF4AAABISURBVAjXJYxBCsAgEAPzif6sEczdwvofBXvfg%2FvKrjSnyRCCi7yhCEcjK56I9VM%2FjmoEd1KZr0GSwTKge9Y5NrpK7kwD5%2BoDefAcYpQtlXYAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDYtMTJUMDU6MDY6MTYrMDA6MDByrOYxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA2LTEyVDA1OjA2OjE2KzAwOjAwA%2FFejQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wNi0xMlQwNTowNjoxNiswMDowMFTkf1IAAAAASUVORK5CYII%3D&logoColor=white&style=flat-square&labelColor=red)]()
 
-## About Me / 关于我
+**Tools I Use / 我使用的工具**
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=visualstudiocode&logoColor=white&style=flat-square)](https://code.visualstudio.com)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com)
+[![Vim](https://img.shields.io/badge/Vim-green?logo=vim&logoColor=white&style=flat-square)](https://vim.org)
+[![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white&style=flat-square)](https://git-scm.com)
+[![Bash](https://img.shields.io/badge/Bash-grey?logo=gnubash&logoColor=white&style=flat-square)](https://www.gnu.org/software/bash)
+[![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=flat-square)](https://linux.org)
+[![Windows](https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white&style=flat-square)](https://windows.microsoft.com)
+[![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-grey?logo=windowsterminal&logoColor=white&style=flat-square)](https://github.com/windows/terminal)
+[![VMware](https://img.shields.io/badge/VMware-orange?logo=vmware&logoColor=white&style=flat-square)](https://vmware.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat-square)](https://github.com)
+[![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-darkgreen?logo=microsoftedge&logoColor=white&style=flat-square)](https://microsoft.com/edge)
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=lingbopro&theme=one_dark_pro&layout=compact" align="right" />
 </a>
 
+## About Me / 关于我
+
 只是一个学生  
 跟 [@H3gg387](https://github.com/H3gg387) 事同学，也事 good friend  
 主攻前端，喜欢玩 Minecraft  
+
+**My Friends:**  
+[@H3gg387](https://github.com/H3gg387)
+[@Minemetero](https://github.com/Minemetero)
 
 ## My Projects / 我的项目
 
@@ -64,15 +87,21 @@
   <p>暂无 <code>:)</code></p>
 </details>
 
-## 奇怪的东西
+## 一些 _~~奇怪的~~_ 东西 / Some _~~SUS~~_ Things
 <details>
   <summary>每日Bing图</summary>
-  <a href="https://7ed.net/bing/api" target="_blank">
-    <img src="https://7ed.net/bing/api?size=320x240" />
+  <a href="https://7ed.net/bing/api?cn=false" target="_blank" title="Bing每日图片-国际版 (点击查看大图)">
+    <img src="https://7ed.net/bing/api?size=640x480&cn=false" width="48%" alt="Bing每日图片-国际版" />
   </a>
-  <a href="https://7ed.net/bing/api?cn=true" target="_blank">
-    <img src="https://7ed.net/bing/api?size=320x240&cn=true" />
+  <a href="https://7ed.net/bing/api?cn=true" target="_blank" title="Bing每日图片-国内版 (点击查看大图)">
+    <img src="https://7ed.net/bing/api?size=640x480&cn=true" width="48%" alt="Bing每日图片-国内版" />
   </a>
+  <p><i>
+    点击查看大图
+  </i></p>
+  <p><i>
+    数据来自 <a href="https://www.7ed.net/get-api/bing.html">7ED</a>
+  </i></p>
 </details>
 <details>
   <summary>一个奇怪的文章 (<a href="https://www.luogu.com.cn/user/1183057#main" target="_blank">出处</a>)</summary>

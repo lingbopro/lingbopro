@@ -144,6 +144,21 @@ I+O+S+T+R+E+A+M = 9+15+19+20+18+5+1+13 = 100%。 所以坚持写代码吧……
 ```
 
 </details>
+<details>
+  <summary>毒鸡汤 / 弱智吧</summary>
+  <a href="https://www.7ed.net/get-api/soup.html" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.7ed.net%2Fsoup%2Fapi&query=%24.badsoup&style=flat-square&label=%E6%AF%92%E9%B8%A1%E6%B1%A4%20%2F%20Bad%20Soup&color=red&cacheSeconds=20" alt="毒鸡汤 / Bad Soup">
+  </a>
+  <br />
+  <a href="https://www.7ed.net/get-api/ruozi.html" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.7ed.net%2Fruozi%2Fapi&query=%24.ruozi&style=flat-square&label=%E5%BC%B1%E6%99%BA%E5%90%A7%20%2F%20Ruozi&color=purple&cacheSeconds=20" alt="弱智吧 / Ruozi">
+  </a>
+  <br />
+  <p><i>
+    数据来自 <a href="https://www.7ed.net/get-api/bing.html">7ED</a>
+    （20秒刷新一次）
+  </i></p>
+</details>
 
 
 <!---

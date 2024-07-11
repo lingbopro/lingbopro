@@ -60,26 +60,29 @@
 
 <details open>
   <summary>活跃</summary>
-  <a href="https://github.com/lingbopro/easy-github-hosts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=easy-github-hosts&theme=one_dark_pro" alt="Card" />
-  </a>
-  <a href="https://github.com/lingbopro/AlwaysBing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=AlwaysBing&theme=one_dark_pro" alt="Card" />
+  <a href="https://github.com/lingbopro/soberjs-vscode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=soberjs-vscode&theme=one_dark_pro" alt="soberjs-vscode" />
   </a>
 </details>
 <details>
   <summary>不活跃</summary>
-  <a href="https://github.com/lingbopro/rename-back-lnk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=rename-back-lnk&theme=one_dark_pro" alt="Card" />
+  <a href="https://github.com/lingbopro/easy-github-hosts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=easy-github-hosts&theme=one_dark_pro" alt="easy-github-hosts" />
   </a>
-  <a href="https://github.com/lingbopro/random-student">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=random-student&theme=one_dark_pro" alt="Card" />
+  <a href="https://github.com/lingbopro/AlwaysBing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=AlwaysBing&theme=one_dark_pro" alt="AlwaysBing" />
   </a>
 </details>
 <details>
-  <summary>仅维护</summary>
+  <summary>维护</summary>
+  <a href="https://github.com/lingbopro/rename-back-lnk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=rename-back-lnk&theme=one_dark_pro" alt="rename-back-lnk" />
+  </a>
+  <a href="https://github.com/lingbopro/random-student">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=random-student&theme=one_dark_pro" alt="random-student" />
+  </a>
   <a href="https://github.com/lingbopro/auto-close-netease-popup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=auto-close-netease-popup&theme=one_dark_pro" alt="Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=auto-close-netease-popup&theme=one_dark_pro" alt="auto-close-netease-popup" />
   </a>
 </details>
 <details>
@@ -147,16 +150,15 @@ I+O+S+T+R+E+A+M = 9+15+19+20+18+5+1+13 = 100%。 所以坚持写代码吧……
 <details>
   <summary>毒鸡汤 / 弱智吧</summary>
   <a href="https://www.7ed.net/get-api/soup.html" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.7ed.net%2Fsoup%2Fapi&query=%24.badsoup&style=flat-square&label=%E6%AF%92%E9%B8%A1%E6%B1%A4%20%2F%20Bad%20Soup&color=red&cacheSeconds=20" alt="毒鸡汤 / Bad Soup">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.7ed.net%2Fsoup%2Fapi&query=%24.badsoup&style=flat-square&label=%E6%AF%92%E9%B8%A1%E6%B1%A4&color=red&cacheSeconds=10" alt="毒鸡汤">
   </a>
   <br />
   <a href="https://www.7ed.net/get-api/ruozi.html" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.7ed.net%2Fruozi%2Fapi&query=%24.ruozi&style=flat-square&label=%E5%BC%B1%E6%99%BA%E5%90%A7%20%2F%20Ruozi&color=purple&cacheSeconds=20" alt="弱智吧 / Ruozi">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.7ed.net%2Fruozi%2Fapi&query=%24.ruozi&style=flat-square&label=%E5%BC%B1%E6%99%BA%E5%90%A7&color=purple&cacheSeconds=10" alt="弱智吧">
   </a>
   <br />
   <p><i>
     数据来自 <a href="https://www.7ed.net/get-api/bing.html">7ED</a>
-    （20秒刷新一次）
   </i></p>
 </details>
 

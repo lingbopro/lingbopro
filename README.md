@@ -1,3 +1,5 @@
+<!-- Hello There! -->
+
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+JavaScript!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;Front-end+developer!" alt="Typing SVG" />
@@ -89,6 +91,12 @@
   <summary>停止支持</summary>
   <p>暂无 <code>:)</code></p>
 </details>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 一些 _~~奇怪的~~_ 东西 / Some _~~SUS~~_ Things
 <details>

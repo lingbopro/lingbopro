@@ -97,7 +97,7 @@ jobs:
           echo "====== CURRENT DIR TREE ======"
           tree .
           echo "========== TREE END =========="
-          mv /metrics_renders/* ./dist
+          sudo mv /metrics_renders/* ./dist
       # push the generated things to output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

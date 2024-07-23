@@ -93,12 +93,18 @@
 </details>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 一些 _~~奇怪的~~_ 东西 / Some _~~SUS~~_ Things
+<details>
+  <summary>Metrics</summary>
+  <img align="center" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" width="400" />
+</details>
+
+<details>
+<summary><b>一些 <i><del>奇怪的</del></i> 东西 / Some <i><del>SUS</del></i> Things</b></summary>
 <details>
   <summary>每日Bing图</summary>
   <a href="https://7ed.net/bing/api?cn=false" target="_blank" title="Bing每日图片-国际版 (点击查看大图)">
@@ -168,6 +174,7 @@ I+O+S+T+R+E+A+M = 9+15+19+20+18+5+1+13 = 100%。 所以坚持写代码吧……
   <p><i>
     数据来自 <a href="https://www.7ed.net/get-api/bing.html">7ED</a>
   </i></p>
+</details>
 </details>
 
 

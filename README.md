@@ -104,7 +104,7 @@
 </picture>
 
 <details align="center">
-  <summary><big>Metrics</big></summary>
+  <summary><b>Metrics</b></summary>
   <img align="center" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" width="400" />
 </details>
 

@@ -45,8 +45,6 @@ jobs:
           plugin_achievements_display: detailed
           plugin_code: yes
           plugin_code_visibility: public
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
@@ -62,7 +60,6 @@ jobs:
           plugin_repositories_pinned: 4
           plugin_repositories_starred: 2
           plugin_repositories_random: 2
-          plugin_skyline: yes
       # generate a readme file
       - name: Generate readme
         shell: bash
@@ -89,7 +86,12 @@ jobs:
       - name: Prepare for pushing
         run: |
           echo "Preparing for pushing..."
-          sudo mv --verbose /metrics_renders/* ./dist
+          if [ "$(ls -A /metrics_renders 2>/dev/null)" ]
+          then
+            sudo mv --verbose /metrics_renders/* ./dist
+          else
+            echo "No Metrics file found."
+          fi
           echo "====== CURRENT DIR TREE ======"
           tree .
           echo "========== TREE END =========="

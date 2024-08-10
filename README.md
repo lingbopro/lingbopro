@@ -12,7 +12,7 @@
   <picture align="right" title="GitHub Stats">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=one_dark_pro" alt="GitHub Stats" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default" align="right" alt="GitHub Stats" />
   </picture>
 </a>
 
@@ -35,6 +35,7 @@
 [![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logo=windows10&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=batchfile)
 [![ShellScript](https://img.shields.io/badge/ShellScript-good-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=black)](https://github.com/lingbopro?tab=repositories&q=&language=shell)
 [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-some-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=C%2B%2B)
+[![Java](https://img.shields.io/badge/Java-some-grey?style=flat-square&logo=openjdk&logoColor=white&labelColor=red)](https://github.com/lingbopro?tab=repositories&q=&language=java)
 [![Python](https://img.shields.io/badge/Python-little-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=python)
 [![C#](https://img.shields.io/badge/C%23-few-grey?style=flat-square&logoColor=white&labelColor=purple&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNkg5NHYtNWgzLjVsLjktNEg5NHYtNWg1LjNsMS4yLTZoNC45bC0xLjIgNmgzLjhsMS4yLTZoNC44bC0xLjIgNmgyLjJ2NXptLTEyLjcgNGgzLjhsLjktNGgtMy44eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==)](https://github.com/lingbopro?tab=repositories&q=&language=C%23)
 [![Scratch](https://img.shields.io/badge/Scratch-nice-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)]()
@@ -66,7 +67,7 @@
 
 只是一个学生  
 跟 [@H3gg387](https://github.com/H3gg387) 事同学，也事 good friend  
-主攻前端，喜欢玩 Minecraft  
+主攻前端，喜欢玩 Minecraft，对 Minecraft Mod 开发小有涉及  
 
 **My Friends:**  
 [@H3gg387](https://github.com/H3gg387)
@@ -76,6 +77,13 @@
 
 <details open>
   <summary>活跃</summary>
+  <a href="https://github.com/lingbopro/lingbos-sussy-mod">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=lingbos-sussy-mod&theme=one_dark_pro" alt="lingbos-sussy-mod" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=lingbos-sussy-mod&theme=default" alt="lingbos-sussy-mod" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=lingbos-sussy-mod&theme=default" alt="lingbos-sussy-mod" />
+    </picture>
+  </a>
   <a href="https://github.com/lingbopro/soberjs-vscode">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=soberjs-vscode&theme=one_dark_pro" alt="soberjs-vscode" />
@@ -130,7 +138,7 @@
   <p>暂无 <code>:)</code></p>
 </details>
 
-<picture align="center">
+<picture align="center" title="GitHub contribution grid snake animation">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg" />
   <!-- Mirror -->
@@ -141,7 +149,7 @@
 
 <details align="center">
   <summary><b>Metrics</b></summary>
-  <picture width="400" align="center">
+  <picture width="400" align="center" title="Metrics">
     <source srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" />
     <source srcset="https://raw.gitmirror.com/lingbopro/lingbopro/output/metrics.svg" />
     <img align="center" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" width="400" />
@@ -176,7 +184,6 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
 
 那么：
-
 Knowledge（知识）：K+N+O+W+L+E+D+G+E = 11+14+15+23+12+5+4+7+5 = 96%。
 Workhard（努力工作）：W+O+R+K+H+A+R+D = 23+15+18+11+8+1+18+4 = 98%。
 也就是说知识和努力工作对我们人生的影响可以达到96％和98％。
@@ -189,7 +196,6 @@ Love（爱情）：L+O+V+E = 12+15+22+5 = 54%。
 是Money（金钱）吗？
 Money（金钱）：M+O+N+E+Y = 13+15+14+5+25 = 72%。
 看来也不是。
-
 是Leadership（领导能力）吗？
 Leadership（领导能力）：L+E+A+D+E+R+S+H+I+P = 12+5+1+4+5+18+19+9+16 = 89%。
 还不是。

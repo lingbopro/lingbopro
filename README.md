@@ -32,14 +32,14 @@
 [![HTML](https://img.shields.io/badge/HTML-nice-grey?logo=html5&logoColor=white&style=flat-square&labelColor=orange)](https://github.com/lingbopro?tab=repositories&q=&language=html)
 [![CSS](https://img.shields.io/badge/CSS-good-grey?logo=css3&logoColor=white&style=flat-square&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=css)
 [![JavaScript](https://img.shields.io/badge/JavaScript-good-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/lingbopro?tab=repositories&q=&language=javascript)
-[![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logo=windows10&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=batchfile)
+[![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logoColor=white&labelColor=blue&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+)](https://github.com/lingbopro?tab=repositories&q=&language=batchfile)
 [![ShellScript](https://img.shields.io/badge/ShellScript-good-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=black)](https://github.com/lingbopro?tab=repositories&q=&language=shell)
 [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-some-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=C%2B%2B)
 [![Java](https://img.shields.io/badge/Java-some-grey?style=flat-square&logo=openjdk&logoColor=white&labelColor=red)](https://github.com/lingbopro?tab=repositories&q=&language=java)
 [![Python](https://img.shields.io/badge/Python-little-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=python)
 [![C#](https://img.shields.io/badge/C%23-few-grey?style=flat-square&logoColor=white&labelColor=purple&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNkg5NHYtNWgzLjVsLjktNEg5NHYtNWg1LjNsMS4yLTZoNC45bC0xLjIgNmgzLjhsMS4yLTZoNC44bC0xLjIgNmgyLjJ2NXptLTEyLjcgNGgzLjhsLjktNGgtMy44eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==)](https://github.com/lingbopro?tab=repositories&q=&language=C%23)
-[![Scratch](https://img.shields.io/badge/Scratch-nice-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)]()
-[![易语言](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-good-grey?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURQAAAP8AAP%2F%2F%2F2cZZB4AAAABdFJOUwBA5thmAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB%2BgGDAUGEL5zDF4AAABISURBVAjXJYxBCsAgEAPzif6sEczdwvofBXvfg%2FvKrjSnyRCCi7yhCEcjK56I9VM%2FjmoEd1KZr0GSwTKge9Y5NrpK7kwD5%2BoDefAcYpQtlXYAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDYtMTJUMDU6MDY6MTYrMDA6MDByrOYxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA2LTEyVDA1OjA2OjE2KzAwOjAwA%2FFejQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wNi0xMlQwNTowNjoxNiswMDowMFTkf1IAAAAASUVORK5CYII%3D&logoColor=white&style=flat-square&labelColor=red)]()
+[![Scratch](https://img.shields.io/badge/Scratch-nice-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)](#)
+[![易语言](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-good-grey?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURQAAAP8AAP%2F%2F%2F2cZZB4AAAABdFJOUwBA5thmAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB%2BgGDAUGEL5zDF4AAABISURBVAjXJYxBCsAgEAPzif6sEczdwvofBXvfg%2FvKrjSnyRCCi7yhCEcjK56I9VM%2FjmoEd1KZr0GSwTKge9Y5NrpK7kwD5%2BoDefAcYpQtlXYAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDYtMTJUMDU6MDY6MTYrMDA6MDByrOYxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA2LTEyVDA1OjA2OjE2KzAwOjAwA%2FFejQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wNi0xMlQwNTowNjoxNiswMDowMFTkf1IAAAAASUVORK5CYII%3D&logoColor=white&style=flat-square&labelColor=red)](#)
 
 **Tools I Use / 我使用的工具**
 
@@ -69,9 +69,10 @@
 跟 [@H3gg387](https://github.com/H3gg387) 事同学，也事 good friend  
 主攻前端，喜欢玩 Minecraft，对 Minecraft Mod 开发小有涉及  
 
-**My Friends:**  
+**My Friends / Portal:**  
 [@H3gg387](https://github.com/H3gg387)
 [@Minemetero](https://github.com/Minemetero)
+[@sjt-2024](https://github.com/sjt-2024)
 
 ## My Projects / 我的项目
 
@@ -170,9 +171,9 @@
   <p><i>
     点击查看大图
   </i></p>
-  <p><i>
+  <sup><i>
     数据来自 <a href="https://www.7ed.net/get-api/bing.html">7ED</a>
-  </i></p>
+  </i></sup>
 </details>
 <details>
   <summary>一个奇怪的文章 (<a href="https://www.luogu.com.cn/user/1183057#main" target="_blank">出处</a>)</summary>
@@ -187,12 +188,10 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 Knowledge（知识）：K+N+O+W+L+E+D+G+E = 11+14+15+23+12+5+4+7+5 = 96%。
 Workhard（努力工作）：W+O+R+K+H+A+R+D = 23+15+18+11+8+1+18+4 = 98%。
 也就是说知识和努力工作对我们人生的影响可以达到96％和98％。
-
 Luck（好运）：L+U+C+K = 12+21+3+11 = 47%。
 Love（爱情）：L+O+V+E = 12+15+22+5 = 54%。
 看来，这些我们通常认为重要的东西却并没起到最重要的作用。
 那么，什么可以决定我们100％的人生呢？
-
 是Money（金钱）吗？
 Money（金钱）：M+O+N+E+Y = 13+15+14+5+25 = 72%。
 看来也不是。
@@ -218,9 +217,9 @@ I+O+S+T+R+E+A+M = 9+15+19+20+18+5+1+13 = 100%。
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.7ed.net%2Fruozi%2Fapi&query=%24.ruozi&style=flat-square&label=%E5%BC%B1%E6%99%BA%E5%90%A7&color=purple&cacheSeconds=10" alt="弱智吧">
   </a>
   <br />
-  <p><i>
+  <sup><i>
     数据来自 <a href="https://www.7ed.net/get-api/bing.html">7ED</a>
-  </i></p>
+  </i></sup>
 </details>
 
 

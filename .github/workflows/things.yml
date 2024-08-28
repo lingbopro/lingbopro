@@ -155,7 +155,7 @@ jobs:
             fi
           echo "::endgroup::"
           echo "::group::Check In"
-            curl -o- 'https://center.mcmod.cn/action/doUserCheckIn/' \
+            curl -o- -s 'https://center.mcmod.cn/action/doUserCheckIn/' \
               -H 'Accept: */*' \
               -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
               -H 'Connection: keep-alive' \
@@ -172,5 +172,6 @@ jobs:
               -H 'sec-ch-ua-mobile: ?0' \
               -H 'sec-ch-ua-platform: "Windows"' \
               --data-raw 'nCenterID=862298'
+            echo "OK"
           echo "::endgroup::"
           echo "Done."

@@ -172,6 +172,6 @@ jobs:
               -H 'sec-ch-ua-mobile: ?0' \
               -H 'sec-ch-ua-platform: "Windows"' \
               --data-raw 'nCenterID=862298'
-            echo "OK"
+            echo
           echo "::endgroup::"
           echo "Done."

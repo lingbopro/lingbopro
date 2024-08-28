@@ -1,4 +1,8 @@
 <!-- Hello There! -->
+<!--
+  Please just feel free to copy this README.
+  I'm also learning coding, so we can make friends if you want to. :)
+-->
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
@@ -73,6 +77,7 @@
 [@H3gg387](https://github.com/H3gg387)
 [@Minemetero](https://github.com/Minemetero)
 [@sjt-2024](https://github.com/sjt-2024)
+[@kjmjh](https://github.com/kjmjh)
 
 ## My Projects / 我的项目
 

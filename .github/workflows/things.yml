@@ -1,4 +1,4 @@
-name: Generate Things
+name: Things
 
 on:
   # run automatically every 24 hours
@@ -7,6 +7,17 @@ on:
   
   # allows to manually run the job at any time
   workflow_dispatch:
+    inputs:
+      force_push_to_output_branch:
+        description: 'Force push to output branch'
+        required: false
+        default: false
+        type: boolean
+      mcmod_check_in:
+        description: 'Do MCMOD check in'
+        required: false
+        default: false
+        type: boolean
   
   # run on every push on the main branch
   push:
@@ -15,13 +26,14 @@ on:
 
 jobs:
   Generate:
+    name: 📋 Generate Things
     permissions: 
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 4
     steps:
       # generate a snake game from contributions graph
-      - name: Generate contribution grid snake SVG
+      - name: 🐍 Contribution grid snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -29,7 +41,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       # generate Metrics
-      - name: Generate metrics
+      - name: 📊 Metrics
         uses: lowlighter/metrics@master
         if: ${{ github.event_name != 'push' }}
         with:
@@ -61,14 +73,14 @@ jobs:
           plugin_repositories_starred: 2
           plugin_repositories_random: 2
       # generate a readme file
-      - name: Generate readme
+      - name: 🔧 Prepare for pushing
         shell: bash
         run: |
           cat << EOF > dist/README.md
           # 此分支储存由 Actions 工作流生成的一些 ~~很 cool 的~~ 东西
           # 不需要关注此分支 \:P
 
-          详情见 https://github.com/lingbopro/lingbopro/blob/main/.github/workflows/generate.yml
+          详情见 https://github.com/lingbopro/lingbopro/blob/main/.github/workflows/things.yml
 
           ## 效果
 
@@ -90,11 +102,9 @@ jobs:
           <code>:)</code>
           EOF
           echo Write done.
-          echo ==== README Content ====
-          cat dist/README.md
-      # prepare
-      - name: Prepare for pushing
-        run: |
+          echo "::group::README Content"
+            cat dist/README.md
+          echo "::endgroup::"
           echo "Preparing for pushing..."
           if [ "$(ls -A /metrics_renders 2>/dev/null)" ]
           then
@@ -102,18 +112,21 @@ jobs:
           else
             echo "No Metrics file found."
           fi
-          echo "Current dir: $(pwd)"
-          echo "====== CURRENT DIR TREE ======"
-          tree .
-          echo "========== TREE END =========="
+          echo "::group::Info"
+            echo "Current dir: $(pwd)"
+            echo "====== CURRENT DIR TREE ======"
+            tree .
+            echo "========== TREE END =========="
+            echo "::endgroup::"
           echo "Prepare done. Ready for pushing."
+      
       # push the generated things to output branch
-      - name: Push to output branch
+      - name: 💾 Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: ${{ github.event_name == 'push' }}
+          keep_history: ${{ !inputs.force_push_to_output_branch }}
           commit_message: |
             Generate Things [Automate]
 
@@ -122,3 +135,42 @@ jobs:
             You don't need to care.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  SecretThings:
+    name: 🤫 Secret Things
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📅 MCMOD Check in
+        if: ${{ github.event_name == 'schedule' || inputs.mcmod_check_in }}
+        run: |
+          echo "MCMOD 自动签到 (mcmod.cn)"
+          echo "MCMOD Auto Check In (mcmod.cn)"
+          echo "::group::Check"
+            curl -s -o /dev/null 'https://www.mcmod.cn/static/public/images/logo_dynamic.gif' \
+              -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0' \
+            if [ $? == 0 ]; then
+              echo "连通性测试成功，继续操作"
+            else
+              echo "::error::连通性测试失败：无法连接到 MCMOD 服务器"
+              exit
+            fi
+          echo "::endgroup::"
+          echo "::group::Check In"
+            curl -o- 'https://center.mcmod.cn/action/doUserCheckIn/' \
+              -H 'Accept: */*' \
+              -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+              -H 'Connection: keep-alive' \
+              -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+              -H 'Cookie: ${{ secrets.MCMOD_COOKIE }}' \
+              -H 'Origin: https://center.mcmod.cn' \
+              -H 'Referer: https://center.mcmod.cn/862298/' \
+              -H 'Sec-Fetch-Dest: empty' \
+              -H 'Sec-Fetch-Mode: cors' \
+              -H 'Sec-Fetch-Site: same-origin' \
+              -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0' \
+              -H 'X-Requested-With: XMLHttpRequest' \
+              -H 'sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Microsoft Edge";v="128"' \
+              -H 'sec-ch-ua-mobile: ?0' \
+              -H 'sec-ch-ua-platform: "Windows"' \
+              --data-raw 'nCenterID=862298'
+          echo "::endgroup::"
+          echo "Done."

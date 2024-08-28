@@ -146,7 +146,7 @@ jobs:
           echo "MCMOD Auto Check In (mcmod.cn)"
           echo "::group::Check"
             curl -s -o /dev/null 'https://www.mcmod.cn/static/public/images/logo_dynamic.gif' \
-              -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0' \
+              -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0' || echo -n ""
             if [ $? == 0 ]; then
               echo "连通性测试成功，继续操作"
             else

@@ -75,7 +75,7 @@
 
 **My Friends / Portal:**  
 [@H3gg387](https://github.com/H3gg387)
-[@Minemetero](https://github.com/Minemetero)
+[@Minemetero](https://github.com/Minemetero)<sup>(大号没了，小号: [@Minemetero-reset](https://github.com/Minemetero-reset))</sup>
 [@sjt-2024](https://github.com/sjt-2024)
 [@kjmjh](https://github.com/kjmjh)
 

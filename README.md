@@ -70,12 +70,11 @@
 ## About Me / 关于我
 
 只是一个学生  
-跟 [@H3gg387](https://github.com/H3gg387) 事同学，也事 good friend  
 主攻前端，喜欢玩 Minecraft，对 Minecraft Mod 开发小有涉及  
 
 **My Friends / Portal:**  
 [@H3gg387](https://github.com/H3gg387)
-[@Minemetero](https://github.com/Minemetero)<sup>(小号: [@Minemetero-reset](https://github.com/Minemetero-reset))</sup>
+[@Minemetero](https://github.com/Minemetero)<sup>(小号 [@Minemetero-reset](https://github.com/Minemetero-reset))</sup>
 [@sjt-2024](https://github.com/sjt-2024)
 [@kjmjh](https://github.com/kjmjh)
 

@@ -81,7 +81,7 @@
 ## My Projects / 我的项目
 
 <details open>
-  <summary>活跃</summary>
+  <summary>活跃 / Active</summary>
   <a href="https://github.com/lingbopro/lingbos-sussy-mod">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=lingbos-sussy-mod&theme=one_dark_pro" alt="lingbos-sussy-mod" />
@@ -98,7 +98,7 @@
   </a>
 </details>
 <details>
-  <summary>不活跃</summary>
+  <summary>不活跃 / Non-active</summary>
   <a href="https://github.com/lingbopro/easy-github-hosts">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=easy-github-hosts&theme=one_dark_pro" alt="easy-github-hosts" />
@@ -115,7 +115,7 @@
   </a>
 </details>
 <details>
-  <summary>维护</summary>
+  <summary>维护 / Maintenance</summary>
   <a href="https://github.com/lingbopro/rename-back-lnk">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=rename-back-lnk&theme=one_dark_pro" alt="rename-back-lnk" />
@@ -139,7 +139,7 @@
   </a>
 </details>
 <details>
-  <summary>停止支持</summary>
+  <summary>停止支持 / Died</summary>
   <p>暂无 <code>:)</code></p>
 </details>
 
@@ -155,9 +155,9 @@
 <details align="center">
   <summary><b>Metrics</b></summary>
   <picture width="400" align="center" title="Metrics">
-    <source srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" />
-    <source srcset="https://raw.gitmirror.com/lingbopro/lingbopro/output/metrics.svg" />
-    <img align="center" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" width="400" />
+    <source srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" title="Metrics" />
+    <source srcset="https://raw.gitmirror.com/lingbopro/lingbopro/output/metrics.svg" title="Metrics" />
+    <img align="center" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" width="400" title="Metrics" />
   </picture>
   
 </details>

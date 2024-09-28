@@ -139,7 +139,7 @@
   </a>
 </details>
 <details>
-  <summary>停止支持 / Died</summary>
+  <summary>停止支持 / Dead</summary>
   <p>暂无 <code>:)</code></p>
 </details>
 

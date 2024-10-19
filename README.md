@@ -14,9 +14,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="right">
   <picture align="right" title="GitHub Stats">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=one_dark_pro" alt="GitHub Stats" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default" align="right" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=one_dark_pro&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" align="right" alt="GitHub Stats" />
   </picture>
 </a>
 
@@ -25,9 +25,12 @@
 [![Mail](https://img.shields.io/badge/Mail-gray?style=flat-square&logo=data:image/x-icon;base64,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)](mailto:ilovemc@zohomail.cn "Mail")
 [![Modrinth](https://img.shields.io/badge/Modrinth-gray?logo=modrinth&style=flat-square)](https://modrinth.com/user/lingbopro "Modrinth")
 [![MCMOD](https://img.shields.io/badge/MCMOD-gray?style=flat-square&logo=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABiRJREFUWEe9l31wFOUdxz/P7r3mSBASLBIKJBpTBGZ0QqjVASNjEYs6CgbqVCu09aXOOIOjjow6HVqVySDgIFZpC7Y6rcaRFx0HpHUsRFsNhQKSBJSXBMnbJSRcyeUut7u3u87zHLlcIDZO0vR3f9zuPr/f8/0+v9ddQYZUfFg+2vG7y4QrljhwhQAtc32Y118JIbY7JDc9PWdba+9eoveiomrxHBt3o4CpwwQazLwR3OVP3bBlm1RUBJ7fXX610NgDjB7MerjrGkmSBJNhc8GtL//wJ38VK3eXj/IJqhFMG+7mg9lrWCQJcSpxD+eS09tt3b5arNpTfi+CNwYzHu56CjyL+sRSoslidNGDC8+IVVXlW4GFwwX4b/aasLCcbBokuH05ukicVxfVkkAdcNVIEdCEieXkUJ9YRrddmAGuEFslgQZgykgQSJ38Ek4mlhKzp1wILiHPSgL1QIG8c2VU3F4qLkLIIklXappjSk8qyjUXhED+MkVgYDi5nEz8nB4nHx3p9pSO2jYlnf0ISIXMbWzXRhMX9iIX13XRhN6f0Pk7yzbQhI0t8jmVuI+4MwEdI63r1QVJBxx1gPMEHNcp8OkBFk17nJD3krTy/uYP2N+yE58eTD+zHYsFxQ+Tn12Udtbpc0fYdfz3uK5DUe5MSibMI+grIskYNMz0ySX40bNxNte14UjH9RGwC/yeEA/P2kCWt68Xhbvr2fzvJxBCU75JOhaXhibxQOmLiIwuXR85xGsHnqRkws3cMfXRi8LRy/6rqMHq/U20xy08mvJ1KgSOmyLwwMx15Pjz+lzrOvzx4Aqauo7h1XwYyRhlBfdQVnB3v3gf69zH2zUreaj0FcaFJqu1us44ESOJdj7gMcum8ssOIoaFX0+HdWACXUYnId9odOGhuvE9dh3/A35PUMX+ZyWrGT+qEMOOq0SUxI91/JOtX7zD8mtXE/T4qA5HqdjX1D/hXJAh0DMy8Bs9cLhtD2ODlzExp5io0cnv9i8nZkSYPGYG912zSrn4UPgjlQfjQpM41F7PptoIa24oIaDDlhMdvFF3hpBv0GE6sAf2Ne8gapxlbuG96hTv1FZwsPVDFk17gpIJ81WyvVXzLDdf8Qtys/KpDsfYXNfOhrLJBHSN7Sc7+VNdO1neIRI40PI3Pmt6l1+WblDlVtNWxftfvswj399Itj+X1mg9bx5+mvtnrifHfyl7w1GV2S+VFf5vCHwe/jtbj6xRSTkx53t0GR18eno784vuVx755NTr7Go4yGM/qGBsIHARgW0nOnn9yDA8cDi8h8qa57h+0kJV81JMO4HsFY4T5YW9r1HbNZd1c6YxLqgpAptq29hwY8oDOxoirD/UQpZn4BD4ddFbHQPngCSw5chq8oL5PFi6Hr8nK112tR1n+FV1M6N8o1k3eyJ5QS/72rpZe6CZ3954ObkBD/8xkmw53qn+U+XeX76I9HAuVaL9CTw480UV45pwFduOrlEdbPH0FUwdd116h1cPt7HjVIS8gM7a2VPIDXo50N7NM5+d5qEZ47m9cOzFiBc8efZfTRxsj8p+MDiB4rxZ/HjGCsBDt2Xz2McNdPRYZPs8rJ0zhdxAisBv9jaqrF921Xe47rJsQt6+WXEho1/vbeTzM919BMAtEEJXbVY2n7jVRaQnrKahV5jogbvpsGZj2haNUUM1cdnhJmX78AhBPOnQEjNVo7Icl/FZPsYEPAPM0RSV5phJj+XIqdh/GiYdU41kDR1d86j53WHNoj5+Jw4eNOHizQiqaUttORlFv+dJx1XDRo3tAcSrab25oQgM8ELioguTM9b1NBqL1MwX2IPGdggK6oWkBpjeZyzBE7SbZTSaC+UMROAMYe9vZdIsCVQCS1LqEtygzZxLk3mbAh5BcAn4D/F81eLFAvdtCa4p8JtoVuAjevLUpMR9XKzcvTTg02Ifa8IsDZs30WIu+L+AA6eFLUpUn1r1yZ1XthnzqlqN+eOFsEba7RIyhuPOq7x16qfpRvnTnVXXJNzvbtSEOetbpc/QlY4ixCOVtxR/lApDhtyy87g/B2cJuHcJhPxKzh46Toal68YR4oQQvKu52p//8qOirt7VrwEK6dqncVkn+QAAAABJRU5ErkJggg==)](https://center.mcmod.cn/862298 "MCMOD")
+<sup><sup>(可点击)</sup></sup>
 
 [![Profile visits](https://komarev.com/ghpvc/?username=lingbopro&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits")
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Flingbopro.github.io&label=Website&down_message=down%20%3A\()](https://lingbopro.github.io "Website")
 [![Stars](https://img.shields.io/github/stars/lingbopro?style=flat-square&color=yellow&label=Stars)](https://github.com/lingbopro?tab=repositories&sort=stargazers "Stars")
+[![GitHub followers](https://img.shields.io/github/followers/lingbopro?style=flat-square&label=Followers)](https://github.com/lingbopro?tab=followers "GitHub followers")
 
 一个爱写 `JavaScript` 的 Minecraft 玩家，兼B站UP主  
 
@@ -38,8 +41,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-good-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/lingbopro?tab=repositories&q=&language=javascript)
 [![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logoColor=white&labelColor=blue&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+)](https://github.com/lingbopro?tab=repositories&q=&language=batchfile)
 [![ShellScript](https://img.shields.io/badge/ShellScript-good-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=black)](https://github.com/lingbopro?tab=repositories&q=&language=shell)
-[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-some-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=C%2B%2B)
-[![Java](https://img.shields.io/badge/Java-some-grey?style=flat-square&logo=openjdk&logoColor=white&labelColor=red)](https://github.com/lingbopro?tab=repositories&q=&language=java)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-little-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=C%2B%2B)
+[![Java](https://img.shields.io/badge/Java-little-grey?style=flat-square&logo=openjdk&logoColor=white&labelColor=red)](https://github.com/lingbopro?tab=repositories&q=&language=java)
 [![Python](https://img.shields.io/badge/Python-little-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/lingbopro?tab=repositories&q=&language=python)
 [![C#](https://img.shields.io/badge/C%23-few-grey?style=flat-square&logoColor=white&labelColor=purple&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNkg5NHYtNWgzLjVsLjktNEg5NHYtNWg1LjNsMS4yLTZoNC45bC0xLjIgNmgzLjhsMS4yLTZoNC44bC0xLjIgNmgyLjJ2NXptLTEyLjcgNGgzLjhsLjktNGgtMy44eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==)](https://github.com/lingbopro?tab=repositories&q=&language=C%23)
 [![Scratch](https://img.shields.io/badge/Scratch-nice-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)](#)
@@ -74,7 +77,7 @@
 
 **My Friends / Portal:**  
 [@H3gg387](https://github.com/H3gg387)
-[@Minemetero](https://github.com/Minemetero)<sup>(小号 [@Minemetero-reset](https://github.com/Minemetero-reset))</sup>
+[@Minemetero](https://github.com/Minemetero)<sup>([小号](https://github.com/Minemetero-reset))</sup>
 [@sjt-2024](https://github.com/sjt-2024)
 [@kjmjh](https://github.com/kjmjh)
 
@@ -187,7 +190,7 @@
   </i></sup>
 </details>
 <details>
-  <summary>一个奇怪的文章 (<a href="https://www.luogu.com.cn/user/1183057#main" target="_blank">出处</a>)</summary>
+  <summary>一个奇怪的文章 <sup>(<a href="https://www.luogu.com.cn/user/1183057#main" target="_blank">出处</a>)</sup></summary>
 
 ```
 如果26个英文字母：
@@ -233,6 +236,12 @@ I+O+S+T+R+E+A+M = 9+15+19+20+18+5+1+13 = 100%。
   </i></sup>
 </details>
 
+<h6>
+
+lingbopro's Homepage [[GitHub](https://github.com/lingbopro)]  
+licensed under [WTFPL license](https://github.com/lingbopro/lingbopro/blob/main/LICENSE).  
+
+</h6>
 
 <!---
 lingbopro/lingbopro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -82,6 +82,13 @@
 
 <details open>
   <summary>活跃 / Active</summary>
+  <a href="https://github.com/lingbopro/sober-community-wiki">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=sober-community-wiki&theme=one_dark_pro" alt="lingbos-sussy-mod" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=sober-community-wiki&theme=default" alt="lingbos-sussy-mod" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=sober-community-wiki&theme=default" alt="lingbos-sussy-mod" />
+    </picture>
+  </a>
   <a href="https://github.com/lingbopro/lingbos-sussy-mod">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=lingbos-sussy-mod&theme=one_dark_pro" alt="lingbos-sussy-mod" />
@@ -165,7 +172,7 @@
 ### 一些 _~~奇怪的~~_ 东西 / Some _~~SUS~~_ Things
 
 <details>
-  <summary>每日Bing图</summary>
+  <summary>每日 Bing 图</summary>
   <a href="https://7ed.net/bing/api?cn=false" target="_blank" title="Bing每日图片-国际版 (点击查看大图)">
     <img src="https://7ed.net/bing/api?size=640x480&cn=false" width="48%" alt="Bing每日图片-国际版" />
   </a>

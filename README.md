@@ -75,6 +75,8 @@
 只是一个学生  
 主攻前端，喜欢玩 Minecraft，对 Minecraft Mod 开发小有涉及  
 
+**My Bot:** [@lingbotpro](https://github.com/lingbotpro)
+
 **My Friends / Portal:**  
 [@H3gg387](https://github.com/H3gg387)
 [@Minemetero](https://github.com/Minemetero)<sup>([小号](https://github.com/Minemetero-reset))</sup>
@@ -84,6 +86,16 @@
 ## My Projects / 我的项目
 
 <details open>
+  <summary>推荐 / Featured</summary>
+  <a href="https://github.com/lingbopro/material-me">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=material-me&theme=one_dark_pro" alt="material-me" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=material-me&theme=default" alt="material-me" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=material-me&theme=default" alt="material-me" />
+    </picture>
+  </a>
+</details>
+<details>
   <summary>活跃 / Active</summary>
   <a href="https://github.com/lingbopro/sober-community-wiki">
     <picture>

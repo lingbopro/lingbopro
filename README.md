@@ -82,6 +82,7 @@
 [@Minemetero](https://github.com/Minemetero)<sup>([小号](https://github.com/Minemetero-reset))</sup>
 [@sjt-2024](https://github.com/sjt-2024)
 [@kjmjh](https://github.com/kjmjh)
+[@win-lukezhang](https://github.com/win-lukezhang)<sup>([旧号](https://github.com/zsr-lukezhang))</sup>
 
 ## My Projects / 我的项目
 

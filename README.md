@@ -80,7 +80,7 @@
 **My Friends / Portal:**  
 [@H3gg387](https://github.com/H3gg387)
 [@Minemetero](https://github.com/Minemetero)<sup>([小号](https://github.com/Minemetero-reset))</sup>
-[@sjt-2024](https://github.com/sjt-2024)
+[@UndefinedBute (曾用名 sjt-2024)](https://github.com/UndefinedByte)
 [@kjmjh](https://github.com/kjmjh)
 [@win-lukezhang](https://github.com/win-lukezhang)<sup>([旧号](https://github.com/zsr-lukezhang))</sup>
 

@@ -10,7 +10,12 @@
   </a>
 </div>
 
-<img src="./assets/avatar-round.png" height="70" align="right" />
+<picture width="70" align="right" title="Avatar">
+  <source srcset="./assets/avatar-round.png" title="Avatar" />
+  <source srcset="https://github.com/user-attachments/assets/d6867d70-d673-4649-a038-e5aadd4250ee" title="Avatar" />
+  <img align="right" src="./assets/avatar-round.png" width="70" title="Avatar" />
+</picture>
+
 
 #### 你好呀 (。・∀・)ノ 
 

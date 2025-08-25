@@ -149,6 +149,9 @@
   <p>暂无 <code>:)</code></p>
 </details>
 
+</details>
+
+
 <picture align="center" title="GitHub contribution grid snake animation">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg" />
@@ -166,8 +169,6 @@
     <img align="center" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/metrics.svg" width="400" title="Metrics" />
   </picture>
   
-</details>
-
 </details>
 
 

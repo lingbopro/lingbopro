@@ -4,6 +4,33 @@
   I'm also learning coding, so we can make friends if you want to. :)
 -->
 
+> **晚安，零雾。**
+> 
+> 2025年12月28日，离新年只有短短几天，他却因癌症而离世，没能看到新年的曙光。
+> 
+> 虽然他的姓名并不家喻户晓，但他制作的资源包，早已在许多玩家的心中留下了影子。
+> 
+> 我们相信，只要你的资源包在，你就永远活在我们的心里。
+> 
+> 借用腾讯频道中讣告的一段话：
+> 
+> > 对于许多粉丝来说，加载他的材质包，Minecraft才有了灵魂。他用无数个日夜的像素绘制，把枯燥的圆石变成了艺术。如今，这位优秀的工匠卸下了所有的疲惫，去往了虚空之上的世界。
+> > 
+> > 12月31日七点五十分，我们将送他最后一程。
+> > 
+> > 从今往后，每当我们抬头看游戏里的方块月亮，或者注视手中剑的纹理时，那就是他在看着我们。
+感谢你来过，感谢你创造的一切。
+> > 
+> > 这一次，没有Respawn，只有Legend。
+> > 
+> > 一路走好。
+> > 
+> > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;———— [【讣告】致那个为方块世界上色的人](https://pd.qq.com/g/05TeaHouse/post/B_1ff85369a5e702001441152187811890420X60)
+>
+> 谨以此文段，纪念 Fogg05。
+> 
+> -----
+
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Hello+there!;I+love+JavaScript!;Minecraft+is+very+nice!" alt="Typing SVG" />

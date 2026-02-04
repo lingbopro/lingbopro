@@ -4,7 +4,9 @@
   I'm also learning coding, so we can make friends if you want to. :)
 -->
 
-> **晚安，零雾。**
+> <details>
+> <summary><b>晚安，零雾。</b></summary>
+> <br />
 > 
 > 2025年12月28日，离新年只有短短几天，他却因癌症而离世，没能看到新年的曙光。
 > 
@@ -19,7 +21,7 @@
 > > 12月31日七点五十分，我们将送他最后一程。
 > > 
 > > 从今往后，每当我们抬头看游戏里的方块月亮，或者注视手中剑的纹理时，那就是他在看着我们。
-感谢你来过，感谢你创造的一切。
+> > 感谢你来过，感谢你创造的一切。
 > > 
 > > 这一次，没有Respawn，只有Legend。
 > > 
@@ -30,6 +32,8 @@
 > 谨以此文段，纪念 Fogg05。
 > 
 > -----
+> 
+> </details>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">

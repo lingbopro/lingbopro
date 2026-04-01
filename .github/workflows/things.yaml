@@ -135,43 +135,43 @@ jobs:
             You don't need to care.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  SecretThings:
-    name: 🤫 Secret Things
-    runs-on: ubuntu-latest
-    steps:
-      - name: 📅 MCMOD Check in
-        if: ${{ github.event_name == 'schedule' || inputs.mcmod_check_in }}
-        run: |
-          echo "MCMOD 自动签到 (mcmod.cn)"
-          echo "MCMOD Auto Check In (mcmod.cn)"
-          echo "::group::Check"
-            curl -s -o /dev/null 'https://www.mcmod.cn/static/public/images/logo_dynamic.gif' \
-              -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0' || echo -n ""
-            if [ $? == 0 ]; then
-              echo "连通性测试成功，继续操作"
-            else
-              echo "::error::连通性测试失败：无法连接到 MCMOD 服务器"
-              exit
-            fi
-          echo "::endgroup::"
-          echo "::group::Check In"
-            curl -o- -s 'https://center.mcmod.cn/action/doUserCheckIn/' \
-              -H 'Accept: */*' \
-              -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
-              -H 'Connection: keep-alive' \
-              -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-              -H 'Cookie: ${{ secrets.MCMOD_COOKIE }}' \
-              -H 'Origin: https://center.mcmod.cn' \
-              -H 'Referer: https://center.mcmod.cn/862298/' \
-              -H 'Sec-Fetch-Dest: empty' \
-              -H 'Sec-Fetch-Mode: cors' \
-              -H 'Sec-Fetch-Site: same-origin' \
-              -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0' \
-              -H 'X-Requested-With: XMLHttpRequest' \
-              -H 'sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Microsoft Edge";v="128"' \
-              -H 'sec-ch-ua-mobile: ?0' \
-              -H 'sec-ch-ua-platform: "Windows"' \
-              --data-raw 'nCenterID=862298'
-            echo
-          echo "::endgroup::"
-          echo "Done."
+#   SecretThings:
+#     name: 🤫 Secret Things
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: 📅 MCMOD Check in
+#         if: ${{ github.event_name == 'schedule' || inputs.mcmod_check_in }}
+#         run: |
+#           echo "MCMOD 自动签到 (mcmod.cn)"
+#           echo "MCMOD Auto Check In (mcmod.cn)"
+#           echo "::group::Check"
+#             curl -s -o /dev/null 'https://www.mcmod.cn/static/public/images/logo_dynamic.gif' \
+#               -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0' || echo -n ""
+#             if [ $? == 0 ]; then
+#               echo "连通性测试成功，继续操作"
+#             else
+#               echo "::error::连通性测试失败：无法连接到 MCMOD 服务器"
+#               exit
+#             fi
+#           echo "::endgroup::"
+#           echo "::group::Check In"
+#             curl -o- -s 'https://center.mcmod.cn/action/doUserCheckIn/' \
+#               -H 'Accept: */*' \
+#               -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+#               -H 'Connection: keep-alive' \
+#               -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+#               -H 'Cookie: ${{ secrets.MCMOD_COOKIE }}' \
+#               -H 'Origin: https://center.mcmod.cn' \
+#               -H 'Referer: https://center.mcmod.cn/862298/' \
+#               -H 'Sec-Fetch-Dest: empty' \
+#               -H 'Sec-Fetch-Mode: cors' \
+#               -H 'Sec-Fetch-Site: same-origin' \
+#               -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0' \
+#               -H 'X-Requested-With: XMLHttpRequest' \
+#               -H 'sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Microsoft Edge";v="128"' \
+#               -H 'sec-ch-ua-mobile: ?0' \
+#               -H 'sec-ch-ua-platform: "Windows"' \
+#               --data-raw 'nCenterID=862298'
+#             echo
+#           echo "::endgroup::"
+#           echo "Done."

@@ -16,11 +16,16 @@
 
 这里是 lingbopro！
 
+<!--
+github-readme-stats is down and we use an another site
+https://github.com/anuraghazra/github-readme-stats/issues/4879#issuecomment-4395337843
+Thanks to @Shion1305's deployment!
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="right">
   <picture align="right" title="GitHub Stats">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=one_dark_pro&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=lingbopro&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" align="right" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=lingbopro&show_icons=true&theme=one_dark_pro&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=lingbopro&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=lingbopro&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" align="right" alt="GitHub Stats" />
   </picture>
 </a>
 
@@ -47,9 +52,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <picture align="right" title="Top Langs">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lingbopro&theme=one_dark_pro&layout=compact" alt="Top Langs" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lingbopro&theme=default&layout=compact" alt="Top Langs" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lingbopro&theme=default&layout=compact" align="right" alt="Top Langs" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs?username=lingbopro&theme=one_dark_pro&layout=compact" alt="Top Langs" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs?username=lingbopro&theme=default&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs?username=lingbopro&theme=default&layout=compact" align="right" alt="Top Langs" />
     </picture>
 </a>
 
@@ -67,9 +72,9 @@
 
 <a href="https://github.com/lingbopro/random-student">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=random-student&theme=one_dark_pro" alt="random-student" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=random-student&theme=default" alt="random-student" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingbopro&repo=random-student&theme=default" alt="random-student" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=lingbopro&repo=random-student&theme=one_dark_pro" alt="random-student" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=lingbopro&repo=random-student&theme=default" alt="random-student" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=lingbopro&repo=random-student&theme=default" alt="random-student" />
   </picture>
 </a>
 
@@ -77,16 +82,16 @@
 
 <a href="https://github.com/win12-online/win12">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=win12-online&repo=win12&theme=one_dark_pro&show_owner=true" alt="win12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=win12-online&repo=win12&theme=default&show_owner=true" alt="win12" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=win12-online&repo=win12&theme=default&show_owner=true" alt="win12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=win12-online&repo=win12&theme=one_dark_pro&show_owner=true" alt="win12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=win12-online&repo=win12&theme=default&show_owner=true" alt="win12" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=win12-online&repo=win12&theme=default&show_owner=true" alt="win12" />
   </picture>
 </a>
 <a href="https://github.com/Minemetero/Table-Tennis-Counter">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=one_dark_pro&show_owner=true" alt="Table-Tennis-Counter" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=default&show_owner=true" alt="Table-Tennis-Counter" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=default&show_owner=true" alt="Table-Tennis-Counter" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=one_dark_pro&show_owner=true" alt="Table-Tennis-Counter" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=default&show_owner=true" alt="Table-Tennis-Counter" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Minemetero&repo=Table-Tennis-Counter&theme=default&show_owner=true" alt="Table-Tennis-Counter" />
   </picture>
 </a>
 

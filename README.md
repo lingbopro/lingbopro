@@ -30,7 +30,7 @@ Thanks to @Shion1305's deployment!
 </a>
 
 [![Profile visits](https://komarev.com/ghpvc/?username=lingbopro&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter "Profile visits")
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Flingbopro.github.io&label=Website&down_message=down%20%3A\()](https://lingbopro.github.io "Website")
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Flingbopro.qzz.io&label=Website&down_message=down%20%3A\()](https://lingbopro.qzz.io "Website")
 [![Stars](https://img.shields.io/github/stars/lingbopro?style=flat-square&color=yellow&label=Stars)](https://github.com/lingbopro?tab=repositories&sort=stargazers "Stars")
 [![GitHub followers](https://img.shields.io/github/followers/lingbopro?style=flat-square&label=Followers)](https://github.com/lingbopro?tab=followers "GitHub followers")
 

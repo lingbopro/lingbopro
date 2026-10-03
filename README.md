@@ -62,6 +62,7 @@ Thanks to @Shion1305's deployment!
 **我的 Bot:** [@lingbotpro](https://github.com/lingbotpro)
 
 **这些是我的朋友们:**  
+[@Iamliuxiaozhen](https://github.com/Iamliuxiaozhen)
 [@H3gg387](https://github.com/H3gg387)
 [@Minemetero](https://github.com/Minemetero)
 [@UndefinedBute](https://github.com/UndefinedByte)
